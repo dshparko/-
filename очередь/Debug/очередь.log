@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Lenovo\source\repos\очередь\Source.c(36,14): warning C4013: isEmpty: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Lenovo\source\repos\очередь\Source.c(96,22): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Lenovo\source\repos\очередь\Source.c(110,22): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+  очередь.vcxproj -> C:\Users\Lenovo\source\repos\очередь\Debug\очередь.exe
